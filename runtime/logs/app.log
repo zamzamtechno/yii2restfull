@@ -1,0 +1,1235 @@
+2018-01-30 04:45:59 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:45:59 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wm-qd9vrogF0Q99qpw4pBwAAAAs'
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_UNIQUE_ID' => 'Wm-qd9vrogF0Q99qpw4pBwAAAAs'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-qd9vrogF0Q99qpw4pBwAAAAs'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39670'
+    'REDIRECT_URL' => '/restfullYii2/web/web/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517283959.328
+    'REQUEST_TIME' => 1517283959
+]
+2018-01-30 04:46:01 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:46:01 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-qeYhfWC8GDQhGg23LlgAAAAQ'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-qeYhfWC8GDQhGg23LlgAAAAQ'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/restfullYii2/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39676'
+    'REDIRECT_URL' => '/restfullYii2/web/site/about'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/site/about'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517283961.834
+    'REQUEST_TIME' => 1517283961
+]
+2018-01-30 04:46:05 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:46:05 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-qfYhfWC8GDQhGg23LmAAAAAQ'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-qfYhfWC8GDQhGg23LmAAAAAQ'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/restfullYii2/web/site/about'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39676'
+    'REDIRECT_URL' => '/restfullYii2/web/site/contact'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/site/contact'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517283965.064
+    'REQUEST_TIME' => 1517283965
+]
+2018-01-30 04:46:05 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:46:05 [::1][-][-][info][application] $_GET = [
+    'v' => '5a6fea7d1b9c1'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-qfYhfWC8GDQhGg23LmgAAAAQ'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-qfYhfWC8GDQhGg23LmgAAAAQ'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_ACCEPT' => 'image/webp,image/apng,image/*,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/restfullYii2/web/site/contact'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39676'
+    'REDIRECT_URL' => '/restfullYii2/web/site/captcha'
+    'REDIRECT_QUERY_STRING' => 'v=5a6fea7d1b9c1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'v=5a6fea7d1b9c1'
+    'REQUEST_URI' => '/restfullYii2/web/site/captcha?v=5a6fea7d1b9c1'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517283965.13
+    'REQUEST_TIME' => 1517283965
+]
+2018-01-30 04:46:13 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:46:13 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'Wm-qhTbsPpwNYb61HQA8qgAAAAo'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/restfullYii2/web/site/contact'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39684'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517283973.77
+    'REQUEST_TIME' => 1517283973
+]
+2018-01-30 04:46:38 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:46:38 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wm-qnjrJzulLaDql0AxaHAAAAAw'
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_UNIQUE_ID' => 'Wm-qnjrJzulLaDql0AxaHAAAAAw'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-qnjrJzulLaDql0AxaHAAAAAw'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39724'
+    'REDIRECT_URL' => '/restfullYii2/web/web/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517283998.695
+    'REQUEST_TIME' => 1517283998
+]
+2018-01-30 04:47:04 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:47:04 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'Wm-quFMC6hyWayjcJCyNtAAAAAI'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/restfullYii2/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39742'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284024.193
+    'REQUEST_TIME' => 1517284024
+]
+2018-01-30 04:47:34 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:47:34 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wm-q1mA-0LaECv48bkN5HwAAAAY'
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_UNIQUE_ID' => 'Wm-q1mA-0LaECv48bkN5HwAAAAY'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-q1mA-0LaECv48bkN5HwAAAAY'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39754'
+    'REDIRECT_URL' => '/restfullYii2/web/web/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284054.207
+    'REQUEST_TIME' => 1517284054
+]
+2018-01-30 04:49:06 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:49:06 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "restfullYii2/". in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('restfullYii2/', Array)
+#1 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-01-30 04:49:06 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wm-rMjrJzulLaDql0AxaHgAAAAw'
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_UNIQUE_ID' => 'Wm-rMjrJzulLaDql0AxaHgAAAAw'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-rMjrJzulLaDql0AxaHgAAAAw'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39786'
+    'REDIRECT_URL' => '/restfullYii2/web/web/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284146.259
+    'REQUEST_TIME' => 1517284146
+]
+2018-01-30 04:49:11 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:49:11 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "restfullYii2/". in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('restfullYii2/', Array)
+#1 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-01-30 04:49:11 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wm-rN9vrogF0Q99qpw4pDQAAAAs'
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_UNIQUE_ID' => 'Wm-rN9vrogF0Q99qpw4pDQAAAAs'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-rN9vrogF0Q99qpw4pDQAAAAs'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39794'
+    'REDIRECT_URL' => '/restfullYii2/web/web/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284151.237
+    'REQUEST_TIME' => 1517284151
+]
+2018-01-30 04:49:22 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:49:22 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wm-rQmA-0LaECv48bkN5IQAAAAY'
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_UNIQUE_ID' => 'Wm-rQmA-0LaECv48bkN5IQAAAAY'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-rQmA-0LaECv48bkN5IQAAAAY'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39804'
+    'REDIRECT_URL' => '/restfullYii2/web/web/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284162.394
+    'REQUEST_TIME' => 1517284162
+]
+2018-01-30 04:49:24 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:49:24 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-rRFQH4pYGEyuZIa8g9gAAAAE'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-rRFQH4pYGEyuZIa8g9gAAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/restfullYii2/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39810'
+    'REDIRECT_URL' => '/restfullYii2/web/site/about'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/site/about'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284164.639
+    'REQUEST_TIME' => 1517284164
+]
+2018-01-30 04:49:25 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:49:25 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-rRVQH4pYGEyuZIa8g@AAAAAE'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-rRVQH4pYGEyuZIa8g@AAAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/restfullYii2/web/site/about'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39810'
+    'REDIRECT_URL' => '/restfullYii2/web/site/contact'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/site/contact'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284165.91
+    'REQUEST_TIME' => 1517284165
+]
+2018-01-30 04:49:26 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:49:25 [::1][-][-][info][application] $_GET = [
+    'v' => '5a6feb45edf0d'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-rRVQH4pYGEyuZIa8g@gAAAAE'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-rRVQH4pYGEyuZIa8g@gAAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_ACCEPT' => 'image/webp,image/apng,image/*,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/restfullYii2/web/site/contact'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39810'
+    'REDIRECT_URL' => '/restfullYii2/web/site/captcha'
+    'REDIRECT_QUERY_STRING' => 'v=5a6feb45edf0d'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'v=5a6feb45edf0d'
+    'REQUEST_URI' => '/restfullYii2/web/site/captcha?v=5a6feb45edf0d'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284165.992
+    'REQUEST_TIME' => 1517284165
+]
+2018-01-30 04:49:28 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:49:28 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-rSMKmrurynRWGkr3PXAAAAAM'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-rSMKmrurynRWGkr3PXAAAAAM'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/restfullYii2/web/site/contact'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39808'
+    'REDIRECT_URL' => '/restfullYii2/web/site/about'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/site/about'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284168.922
+    'REQUEST_TIME' => 1517284168
+]
+2018-01-30 04:51:52 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:51:52 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][error][yii\base\UnknownClassException] yii\base\UnknownClassException: Unable to find 'app\controllers\WilayahController' in file: /opt/lampp/htdocs/restfullYii2/controllers/WilayahController.php. Namespace missing? in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/BaseYii.php:296
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#1 [internal function]: spl_autoload_call('app\\controllers...')
+#2 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Module.php(638): class_exists('app\\controllers...')
+#3 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('wilayah')
+#4 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('provinsi')
+#5 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('wilayah/provins...', Array)
+#6 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2018-01-30 04:51:52 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-r2Gqft0PBWfBawWlK@wAAAAk'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-r2Gqft0PBWfBawWlK@wAAAAk'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39842'
+    'REDIRECT_URL' => '/restfullYii2/web/wilayah/provinsi'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/wilayah/provinsi'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284312.948
+    'REQUEST_TIME' => 1517284312
+]
+2018-01-30 04:52:13 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:52:13 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: wilayah/provinsi in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('provinsi', Array)
+#1 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('wilayah/provins...', Array)
+#2 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-01-30 04:52:13 [::1][-][cbc0c4082cfd9650821eb59ed8f453d6][info][application] $_COOKIE = [
+    'PHPSESSID' => 'cbc0c4082cfd9650821eb59ed8f453d6'
+    'advanced-frontend' => 'd699086db5a232e1a5f97ac28b8783e5'
+    '_csrf-frontend' => '66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"5XGgqFpS9iHHKci_UCuBnHPwTtglrwiX\";}'
+    '_csrf' => '9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'geevno'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-r7VQH4pYGEyuZIa8g@wAAAAE'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-r7VQH4pYGEyuZIa8g@wAAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=cbc0c4082cfd9650821eb59ed8f453d6; advanced-frontend=d699086db5a232e1a5f97ac28b8783e5; _csrf-frontend=66928ae04598c024379c3c03c0c8dfce6ddbe35abe42a7e069ff43a5222b97baa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%225XGgqFpS9iHHKci_UCuBnHPwTtglrwiX%22%3B%7D; _csrf=9b3336bf7b31bba76491b68986ece784728291b4755f73e6df6c1b0fd1d2195ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1RAYWQL6Wr7jsxKJdxrkTBU916OYy-d%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39856'
+    'REDIRECT_URL' => '/restfullYii2/web/wilayah/provinsi'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/wilayah/provinsi'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284333.494
+    'REQUEST_TIME' => 1517284333
+]
+2018-01-30 04:52:25 [::1][-][2519b5f33d484634d7e5066b30440da7][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:52:25 [::1][-][2519b5f33d484634d7e5066b30440da7][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: wilayah/provinsi in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('provinsi', Array)
+#1 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('wilayah/provins...', Array)
+#2 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-01-30 04:52:25 [::1][-][2519b5f33d484634d7e5066b30440da7][info][application] $_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-r@Wqft0PBWfBawWlK-AAAAAk'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-r@Wqft0PBWfBawWlK-AAAAAk'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'f1fc170a-c737-352e-6eeb-a34f88489e9a'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39868'
+    'REDIRECT_URL' => '/restfullYii2/web/wilayah/provinsi'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/wilayah/provinsi'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284345.591
+    'REQUEST_TIME' => 1517284345
+]
+2018-01-30 04:53:18 [::1][-][2519b5f33d484634d7e5066b30440da7][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:53:18 [::1][-][2519b5f33d484634d7e5066b30440da7][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: wilayah/provinsi in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('provinsi', Array)
+#1 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('wilayah/provins...', Array)
+#2 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /opt/lampp/htdocs/restfullYii2/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /opt/lampp/htdocs/restfullYii2/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-01-30 04:53:18 [::1][-][2519b5f33d484634d7e5066b30440da7][info][application] $_COOKIE = [
+    'PHPSESSID' => '2519b5f33d484634d7e5066b30440da7'
+    '_csrf' => '4386ab78b980f3b18c3db6ef3f275f31491f9bce23b58f0db476e5d6f91b2722a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ib8YqjgNNXKZcRDQ9ZJ0ew0JJuCdRivm\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-sLlMC6hyWayjcJCyNuAAAAAI'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-sLlMC6hyWayjcJCyNuAAAAAI'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'c9d45788-e433-bc24-d34c-38ba10c974f8'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=2519b5f33d484634d7e5066b30440da7; _csrf=4386ab78b980f3b18c3db6ef3f275f31491f9bce23b58f0db476e5d6f91b2722a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ib8YqjgNNXKZcRDQ9ZJ0ew0JJuCdRivm%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39878'
+    'REDIRECT_URL' => '/restfullYii2/web/wilayah/provinsi'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/wilayah/provinsi'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284398.242
+    'REQUEST_TIME' => 1517284398
+]
+2018-01-30 04:53:37 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 04:53:37 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '2519b5f33d484634d7e5066b30440da7'
+    '_csrf' => '4386ab78b980f3b18c3db6ef3f275f31491f9bce23b58f0db476e5d6f91b2722a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ib8YqjgNNXKZcRDQ9ZJ0ew0JJuCdRivm\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-sQR3GU4dbhFFXmsSAFAAAAAU'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-sQR3GU4dbhFFXmsSAFAAAAAU'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'b2810aa4-cc23-4c2c-5e3d-6cd068abe678'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=2519b5f33d484634d7e5066b30440da7; _csrf=4386ab78b980f3b18c3db6ef3f275f31491f9bce23b58f0db476e5d6f91b2722a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ib8YqjgNNXKZcRDQ9ZJ0ew0JJuCdRivm%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '39882'
+    'REDIRECT_URL' => '/restfullYii2/web/wilayah/all-provinsi'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/wilayah/all-provinsi'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517284417.921
+    'REQUEST_TIME' => 1517284417
+]
+2018-01-30 05:05:37 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 05:05:37 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '2519b5f33d484634d7e5066b30440da7'
+    '_csrf' => '4386ab78b980f3b18c3db6ef3f275f31491f9bce23b58f0db476e5d6f91b2722a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ib8YqjgNNXKZcRDQ9ZJ0ew0JJuCdRivm\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-vETbsPpwNYb61HQA8sAAAAAo'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-vETbsPpwNYb61HQA8sAAAAAo'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '261994f0-19b6-031b-47a3-9cfdfb8c0fcb'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=2519b5f33d484634d7e5066b30440da7; _csrf=4386ab78b980f3b18c3db6ef3f275f31491f9bce23b58f0db476e5d6f91b2722a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ib8YqjgNNXKZcRDQ9ZJ0ew0JJuCdRivm%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '40202'
+    'REDIRECT_URL' => '/restfullYii2/web/wilayah/all-provinsi'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/wilayah/all-provinsi'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517285137.739
+    'REQUEST_TIME' => 1517285137
+]
+2018-01-30 05:06:09 [::1][-][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin': file_put_contents(/opt/lampp/htdocs/restfullYii2/runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin): failed to open stream: No such file or directory
+2018-01-30 05:06:09 [::1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '2519b5f33d484634d7e5066b30440da7'
+    '_csrf' => '4386ab78b980f3b18c3db6ef3f275f31491f9bce23b58f0db476e5d6f91b2722a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ib8YqjgNNXKZcRDQ9ZJ0ew0JJuCdRivm\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_UNIQUE_ID' => 'Wm-vMVQH4pYGEyuZIa8g-QAAAAE'
+    'REDIRECT_STATUS' => '200'
+    'UNIQUE_ID' => 'Wm-vMVQH4pYGEyuZIa8g-QAAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '89022681-233f-92fe-6718-53871414e88f'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=2519b5f33d484634d7e5066b30440da7; _csrf=4386ab78b980f3b18c3db6ef3f275f31491f9bce23b58f0db476e5d6f91b2722a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ib8YqjgNNXKZcRDQ9ZJ0ew0JJuCdRivm%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.0 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/restfullYii2/web/index.php'
+    'REMOTE_PORT' => '40214'
+    'REDIRECT_URL' => '/restfullYii2/web/wilayah/all-provinsi'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/restfullYii2/web/wilayah/all-provinsi'
+    'SCRIPT_NAME' => '/restfullYii2/web/index.php'
+    'PHP_SELF' => '/restfullYii2/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1517285169.465
+    'REQUEST_TIME' => 1517285169
+]
